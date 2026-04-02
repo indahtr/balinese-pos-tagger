@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "balinese-pos-tagger"
+version = "0.1.0"
+description = "Balinese Part-of-Speech (PoS) Tagger using Bi-LSTM"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+  {name = "Pande Komang Indah Triroshanti", email = "triroshanti@gmail.com"}
+]
+keywords = ["nlp", "pos-tagging", "balinese", "bilstm", "low-resource"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Science/Research",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "Topic :: Text Processing :: Linguistic"
+]
+
+dependencies = [
+  "torch>=2.0.0",
+  "numpy>=1.23.0",
+]
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["balinese_pos_tagger*"]
+
+[tool.setuptools.package-data]
+"balinese_pos_tagger.resources" = ["*"]

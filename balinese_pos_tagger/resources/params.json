@@ -1,0 +1,9 @@
+{
+    "embedding_dim": 200,
+    "hidden_size": 64,
+    "num_layers": 2,
+    "dropout": 0.5,
+    "batch_size": 16,
+    "lr": 0.01,
+    "max_len": 22
+}
