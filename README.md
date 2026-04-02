@@ -10,11 +10,6 @@ Library dapat diinstal secara langsung melalui repositori GitHub menggunakan per
 pip install git+https://github.com/indahtr/balinese-pos-tagger.git
 ```
 ## Cara Penggunaan
-Untuk pengujian awal, jalankan skrip 'demo.py' yang tersedia pada direktori utama dengan cara:
-```bash
-python demo.py
-```
-
 ### Penggunaan Dasar
 ```python
 from balinese_pos_tagger import PosTagger
