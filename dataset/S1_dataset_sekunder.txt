@@ -1,0 +1,500 @@
+Tiang/PR meli/VB baas/NN ./Z 
+I/DT bapa/NN nyilih/VB sepeda/NN ./Z 
+I/DT meme/NN nglablab/VB jukut/NN ./Z 
+Memenne/PR bidan/NN ./Z 
+Adnyana/NNP tukang/NNP gambar/NN ./Z 
+Kurenanne/PR dadua/CD ./Z 
+Ni/DT Nyoman/NNP Sumarni/NNP uli/IN Gianyar/NNP ./Z 
+Adinne/PR lakar/MD kija/VB ./Z 
+I/DT bapa/NN nulis/VB surat/NN ./Z 
+I/DT meme/NN luas/VB ka/IN peken/NN ./Z 
+Ia/PR lakar/MD ngamah/VB ./Z 
+Ipun/DT pacang/MD nunas/VB ./Z 
+Dane/PR jagi/MD ngajeng/VB ./Z 
+Ida/PR jagi/MD ngrayunang/VB ./Z 
+Anak/DT ia/PR tusing/RB maan/VB morahan/VB ./Z 
+Men/UH nyen/WH nawang/VB ditu/RB ?/Z 
+Mai/VB teh/RP malu/RB !/Z 
+Nget/UH suba/RB majalan/VB ./Z 
+Carikne/NN bapa/NNP Dibia/NNP suba/RB garapa/VB teken/IN Putu/NNP Windia/NNP ./Z 
+Dibi/NN sande/NN ipun/PR maboros/VB ,/Z kocap/RB sampun/MD polih/VB kidang/NN nyantos/VB telung/CD ukud/NND ./Z 
+Ituni/NN adinne/PR bes/IN itep/JJ maplalian/VB nganti/IN engsap/VB masuk/VB ./Z 
+Ni/DT Sari/NNP tigtiga/VB nganti/IN ngeling/VB ./Z 
+Pamelin/NN bajunne/NN ento/IN kayang/IN jani/RB tonden/RB bayaha/VB ./Z 
+I/DT Putu/NNP meli/VB jaja/NN sig/IN warungne/NN Made/NNP Nadri/NNP ./Z 
+Ajin/NN dane/PR nenten/RB nyidayang/VB numbas/VB napi/NN kayang/IN mangkin/RB ./Z 
+Bapanne/PR lakar/MD luas/VB ka/IN Surabaya/NNP ./Z 
+I/DT Pageh/NNP itep/JJ gati/RB magae/VB di/IN uma/NN ./Z 
+I/DT Mirah/NNP mlaib/VB ka/IN pasareane/NN lantas/RB ngakebin/VB galeng/NN ./Z 
+Tiang/PR mrasa/VB tuara/VB luung/VB teken/IN omongne/NN matadah/VB jail/RB ./Z 
+Beli/DT Gede/NNP sing/NEG taen/RB jumah/RB ,/Z yen/CS sing/NEG sig/IN dagang/NN tuake/NN di/IN plaliane/NN ./Z 
+Buku/NN Malancaran/VB ka/IN Sasak/NNP punika/IN kakawi/VB olih/IN I/NNP Gede/NNP Srawana/NNP ./Z 
+Dumadak/MD rahajeng/VB sareng/IN sami/NND ./Z 
+Ngandika/VB sang/DT Nakula/NNP saha/IN sembah/VB ./Z 
+Memenne/PR madagang/VB di/IN peken/NN ./Z 
+Titiang/PR sampun/MD sue/RB pisan/RB nyantos/VB ring/IN sekolahan/NN ./Z 
+Da/NEG nyen/RB Putu/NNP ngejang/VB blakas/NN ba/IN duur/NN !/Z 
+Buin/NN mani/NN memenne/NN lakar/MD ka/VB Jakarta/NNP ./Z 
+Kemu/VB jemak/VB titipane/NN sig/IN umah/NN Ni/DT Mirahe/NNP !/Z 
+Punika/IN napi/WH ipun/PR sampun/RB mlinggih/VB ring/IN ajeng/IN ./Z 
+Titiang/PR sampun/RB sue/RB pisan/RB nyantos/VB ring/IN baton/IN punyan/NN gadunge/NN ./Z 
+Punika/IN ipun/PR sampun/RB nyantos/VB ring/IN jaba/NN sareng/IN adin/NN ipune/PR ./Z 
+Li/IN kawana/IN siape/NN medem/VB ./Z 
+Ia/PR ngoyong/NN si/IN kangin/IN ./Z 
+Punika/IN ipun/PR ring/IN pungkur/IN sekolahane/NN ./Z 
+Ia/PR sepega/VB aji/IN pedang/NN ./Z 
+Sajaan/RB dugase/IN totonan/NN ,/Z idupe/NN buka/IN magantung/VB baan/IN bok/NN akatih/NND ./Z 
+Panjake/NN sane/IN iwang/VB patut/VB kasisipang/VB olih/IN Ida/DT Sang/DT Prabu/NN ./Z 
+Ipun/PR kasisipang/VB ri/IN antuk/IN Ida/DT Batara/NN ./Z 
+Ni/DT Sari/NNP tigtiga/VB nganti/IN balan/NN baan/IN memenne/NN ./Z 
+Rencananne/NN I/DT Putu/NNP punika/IN sampun/RB karauhang/VB ring/IN titiang/PR ./Z 
+Kenken/WH Made/NNP ,/Z apa/WH rencananne/NN I/DT Putu/NNP totonan/PR suba/RB tekedanga/VB teken/IN cai/PR ?/Z 
+Icang/PR mara/IN teka/VB uli/IN Pura/NNP Besakih/NNP ./Z 
+Titiang/PR wau/IN rauh/VB saking/IN Pura/NNP Besakih/NNP ./Z 
+Aget/NN masih/NN Bapa/NN dugase/IN ento/IN nyidaang/MD luput/NN uli/IN bencanane/NN gede/JJ ./Z 
+Dumadak/MD ipun/PR prasida/VB luput/NN saking/IN bencana/NN ./Z 
+Ri/IN tatkala/IN punika/IN sabehe/NN banget/RB pisan/RB ./Z 
+Daweg/IN punika/IN dane/PR kantun/RB sungkan/JJ ./Z 
+Sampun/RB rihin/IN ipun/PR ical/JJ ./Z 
+Mungpung/IN mangkin/RB sampun/RB mapluangan/JJ ,/Z ngiring/VB mangkin/RB kawitin/VB minehang/VB rencanane/NN punika/RB ./Z 
+Kayang/IN jani/RB ia/PR tonden/RB nyidaang/MD menekang/VB utangne/NN ./Z 
+Sekat/IN ada/VB undake/NN totonan/PR ,/Z kayang/IN jani/RB ia/PR tusing/RB bani/JJ mai/VB ./Z 
+Yen/IN keto/NN bikas/VB caine/PR ,/Z ento/IN adanne/NN bes/IN langgia/JJ cai/PR teken/IN anak/NN tua/NN ./Z 
+Togog/NN papindan/NN nagane/NN ditu/RB ,/Z gaena/VB aji/IN paras/NN ./Z 
+Arca/NN Jatyu/NN puniki/IN kawangun/VB antuk/IN taru/NN cenana/NN ./Z 
+Wayange/NN gaena/VB baan/IN kulit/NN ./Z 
+Buin/NN mani/NN belinne/PR lakar/MD luas/VB ka/IN Jakarta/NNP ./Z 
+Benjang/NN rakan/NN dane/PR pacang/VB lunga/VB ka/IN Jembrana/NNP ./Z 
+Dening/IN sampun/RB tengai/NN ,/Z ngiring/VB sampun/RB mamargi/VB ./Z 
+Duaning/IN sampun/RB tengai/NN ,/Z ngiring/VB sampun/RB mamargi/VB ./Z 
+Olege/NN sane/IN masolah/VB ring/IN puri/NN dibi/NN sande/NN ayu/JJ pisan/RB sakadi/IN dedari/NN ./Z 
+Belinne/PR mokoh/JJ gati/RB cara/IN gajah/NN ./Z 
+Putu/NNP Mastika/NNP dueg/JJ gati/RB di/IN sekolahan/NN ,/Z patuh/NN buka/IN belinne/PR ./Z 
+Tiang/PR gapgapina/VB baju/NN muah/CC jaler/NN ./Z 
+Tiang/PR gapgapina/VB baju/NN pelung/JJ muah/CC jaler/NN gadang/JJ ./Z 
+Di/IN pekene/NN tongos/NN anak/NN madepan/VB tur/CC anak/NN mablanja/VB ./Z 
+I/DT kaki/NN teken/CC i/DT dadong/NN ./Z 
+Sugih/JJ nanging/CC belog/JJ ./Z 
+Bagus/JJ bin/CC dueg/JJ ./Z 
+Jegeg/JJ nanging/CC kiul/JJ ./Z 
+Gede/JJ Kewala/CC bawak/JJ ./Z 
+Makutu/VB sambilanga/CC nyatua/VB ./Z 
+Mlajah/VB magending/VB teken/CC mlajah/VB ngigel/VB ./Z 
+I/DT bapa/NN maang/VB pipis/NN nanging/CC i/DT meme/NN ane/CC mablanja/VB ka/IN peken/NN ./Z 
+Meja/NN muah/CC korsi/NN ./Z 
+Tiang/PR utawi/CC ipun/PR ,/Z sami/NND pacang/MD padem/VB ./Z 
+Embok/NN kalih/CC adin/NN ipune/PR kocap/RB pacang/MD sareng/VB ngiring/VB ./Z
+Belin/NN titiang/PR ,/Z adin/NN titiang/PR ,/Z taler/CC titiang/PR newek/NN sareng/VB ngiring/VB ka/IN Pulaki/NNP ./Z 
+Sami/NND rauh/VB tangkil/VB ,/Z kadi/NN I/DT Putu/NNP ,/Z I/DT Nyoman/NNP ,/Z saha/CC pianak-pianak/NN ipune/PR ./Z 
+Dane/PR patut/JJ masolah/VB kenten/NN maliha/CS ipun/PR dados/VB guru/NN ./Z 
+Kocap/NN ipun/PR pacang/MD tangkil/VB benjang/NN yening/CS nenten/NEG katiban/NN sengkala/NN 
+Tekain/NN dogen/RB anake/NN ,/Z jeta/CS cai/PR jani/NN suba/RB tusing/NEG madunungan/VB ditu/RB ./Z 
+Cai/PR tusing/NEG dadi/VB bani/JJ teken/CC anak/NN tua/NN buina/CS cai/PR jani/NN kaden/NN suba/RB dadi/VB murid/NN kelas/NN telu/CD ./Z 
+Arin/NN ipune/PR seleh/JJ pisan/RB sakadi/CS dedari/NN ./Z 
+Nyaman/PR ipune/PR tan/NEG wenten/VB sane/CS rungu/VB sumasat/CS ipun/PR anak/NN ubuh/NN ./Z 
+Melahan/NN cai/PR milu/VB kemu/VB nutug/VB belinne/PR tinimbang/CS nongos/VB dini/RB ./Z 
+Bapanne/PR suba/RB mati/NN ,/Z ento/IN krananne/CS ia/PR suud/RB masekolah/VB ./Z 
+Eda/NEG gati/RB Nyoman/NNP pedih/JJ saupamanne/CS icang/PR tusing/RB nyidaang/MD teka/VB mai/NN ./Z 
+Sampunang/NEG pisan/RB ratu/NN bendu/JJ saupaminipun/CS kaulan/NN druene/PR tan/NEG prasida/MD tangkil/VB meriki/RB ./Z 
+I/DT Putu/NNP jemet/JJ pisan/VB samaliha/CS ipun/DT dueg/JJ ring/IN sekolahan/NN ./Z 
+Bapan/NN icange/PR kal/RB ka/VB uma/NN ./Z 
+Jagate/NN makamiwah/CS dagingnyane/NN kreta/JJ raharja/JJ ./Z 
+Ipun/DT jemet/JJ tur/CS malih/CS dueg/JJ ring/IN sekolahan/NN ./Z 
+I/DT bapa/NN ane/IN ngelah/VB pipise/NN nanging/CC i/DT meme/NN ane/IN mlanjaang/VB ka/IN peken/NN ./Z 
+Embok/NN kalih/CC adin/NN ipune/PR kocap/RB pacang/MD rauh/VB ka/IN geria/NN ./Z 
+Adinne/PR jemet/JJ bin/CS dueg/JJ gati/RB di/IN sekolahan/NN ./Z 
+Pianak/NN ipune/PR seleh/JJ pisan/RB waluya/CS dedari/NN Supraba/NNP ./Z 
+Dibi/NN titiang/PR numbas/VB baju/NN muah/CC jaler/NN ring/IN toko/NN Bahtera/NNP ./Z 
+I/DT bapa/NN teken/CC i/DT meme/NN lakar/MD luas/VB ka/IN Surabaya/NNP ./Z 
+Adinne/PR I/DT Mendra/NNP jemet/JJ bin/CS dueg/JJ di/IN sekolahan/NN ./Z 
+I/DT Kasda/NNP lan/CC adinne/PR suba/RB luas/VB ka/IN Tabanan/NNP ./Z 
+Titiang/PR utawi/CC ipun/PR sane/IN iwang/JJ ./Z 
+Sang/DT Arjuna/NNP kacritayang/NN seda/VB utawi/CC lina/VB ring/IN payudan/VB punika/RB ./Z 
+Dumadak/MD ipun/PR rahajeng/JJ utawi/CC tan/NEG kapialangan/VB ring/IN marga/NN mangda/CS prasida/RB rauh/VB mriki/NN ./Z 
+Sasampune/RB kaicen/VB jinah/NN antuk/IN biang/NN ipun/PR ,/Z raris/CS ipun/PR gageson/RB lunga/VB ka/IN sekolahan/NN ./Z 
+Sesubane/RB nrima/RB pipis/NN uli/IN memenne/NN laut/CS ngenggalang/RB ia/PR majalan/VB ka/IN sekolahan/NN ./Z 
+I/DT Putu/NNP totonan/PR anak/NN jlema/NN degag/JJ gati/RB buin/CS demen/JJ memaling/VB ./Z 
+Ni/DT Sari/NNP jemet/JJ gati/RB nulungin/VB memenne/NN madagang/VB ,/Z keto/NN masih/CC adinne/PR sing/NEG suud-suud/RB nyemak/VB gae/NN ./Z 
+Panakne/PR jegeg/JJ tur/CC jemet/JJ gati/RB ./Z 
+Kocap/NN ipun/PR arang/JJ pisan/RB nonton/VB ilen-ilen/NN ,/Z kalih/CS ipun/PR napi/NN ja/NN anggena/VB pacang/MD numbas/VB kercis/NN ./Z 
+Warsa/NN puniki/IN kota/NN Singaraja/NNP katiban/VB banjir/NN maliha/CC makeh/CD sane/IN kena/VB pinakit/NN ./Z 
+Bin/NN mani/NN icang/PR lakar/MD mabalih/VB pelem/NN yen/CS ngelah/VB pipis/NN ./Z 
+Bin/NN mani/NN icang/PR lakar/MD mabalih/VB pelem/NN lamun/CS ngelah/VB pipis/NN ./Z 
+Kocap/NN ipun/PR pacang/MD sareng/VB ngiringang/VB jantos/VB ring/IN plabuan/NN yening/CS pianak/NN ipune/PR sampun/RB rauh/VB ./Z 
+Ipun/DT santep/JJ pisan/RB mlajah/VB mangda/CS prasida/NN munggah/NN ka/IN kelas/NN lima/CD ./Z 
+Jemetang/VB teh/RP mlajah/VB pang/CS nyidaang/MD lulus/NN di/IN ujiane/NN !/Z 
+Yakti/NN ipun/PR anak/NN tiwas/JJ nanging/CC wicaksana/JJ pisan/RB ./Z 
+Saja/NN ia/PR jemet/JJ kuala/CC sigug/NN gati/RB ./Z 
+Adinne/PR ngeling/VB sigsigan/NN wireb/CS tusing/RB menek/NN ka/IN kelas/NN telu/CD ./Z 
+Adinne/PR ngeling/VB sigsigan/NN krana/CS tusing/RB menek/NN ka/IN kelas/NN telu/CD ./Z 
+Icang/PR tusing/RB ngugu/NN Beli/NN reh/CS kereng/RB mobab/VB ./Z 
+Panakne/PR ngeling/VB buka/IN pitike/NN kelangan/VB pangina/NN ./Z 
+Parmargin/NN ipune/PR dabdab/NN kadi/CS deenge/NN ./Z 
+Ento/IN baju/NN baana/MD meli/VB ./Z 
+Tuti/NNP labuh/VB dugase/MD kayeh/VB ./Z 
+Ia/PR pepesan/MD ngelong/VB janji/NN ./Z 
+I/DT meme/NN mustinne/MD jani/RB teka/VB ./Z 
+Ia/PR lakar/MD masuk/VB ./Z 
+I/DT bapa/NN tusing/NEG magae/VB ./Z 
+Eda/NEG madaar/VB ditu/RB ./Z 
+Suud/MD mlali/VB ditu/RB ./Z 
+Ia/PR mula/MD ngwasaang/VB gelah/NN reramanne/NN ./Z 
+I/DT meme/NN tusing/NEG madagang/VB i/RP tuni/RB ./Z 
+I/DT biang/NN nenten/NEG madolan/VB i/RP tuni/RB ./Z 
+Seken/MD ia/PR nyemak/VB bukun/NN icange/PR ./Z 
+Janten/MD ipun/PR ngambil/VB bukun/NN titiange/PR ./Z 
+I/DT meme/NN suba/MD tusing/RB madagang/VB i/RP tuni/RB ./Z 
+Suba/MD seken/MD ia/PR nyemak/VB bajun/NN icange/PR ./Z 
+Jani/RB ia/PR bisa/MD nulis/VB ./Z 
+Lakar/MD anggon/VB apa/WH nyiih/VB tiuk/NN ?/Z 
+Facang/MD anggen/VB napi/WH nyelang/VB tiuk/NN ?/Z 
+I/DT tuni/RB icang/PR nandes/MD anyudang/VB belabar/NN ./Z 
+Manusa/NN idup/VB perlu/MD daar/NN muah/CC panganggo/NN ./Z 
+Tusing/NEG perlu/MD jejeh/JJ lamun/CS i/RP raga/NN beneh/JJ ./Z 
+Musti/MD uliang/VB pipis/NN beline/PR jani/NN !/Z 
+Wireh/JJ ujane/NN bales/JJ terpaksa/MD icang/PR kasep/NN mai/NN 
+Eda/NEG masepan-sepan/RB magarapan/VB 
+Sampunang/NEG mageson-rnagesonan/RB makarya/VB 
+Kayang/NN kali/NN jani/NN Nyoman/NNP Santri/NNP konden/NEG teka/VB ./Z 
+Jantos/NN kali/NN mangkin/NN Nyoman/NNP Santri/NNP dereng/NEG rauh/VB ./Z 
+Jantos/NN kali/NN mangkin/NN Nyoman/NNP Santri/NNP durung/NEG rauh/VB ./Z 
+Dugas/NN icange/PR kema/VB ia/PR konden/NEG ngenah/VB ditu/RB ./Z 
+Daweg/NN titiange/PR mrika/VB ipun/PR dereng/NEG makanten/VB drika/RB ./Z 
+Icang/PR lakar/MD luas/VB ka/IN Denpasar/NNP ./Z 
+Bapak/DT Perbekel/NN pacang/MD ka/IN Badung/NNP ./Z 
+Ida/DT Pedanda/NN jagi/MD ngweda/VB ./Z 
+Senjatane/NN ento/IN tusing/NEG ja/NN bakal/MD mintulin/VB ./Z 
+Bakal/MD anggon/VB apa/WH ngalih/VB penyalin/NN ?/Z 
+Ibi/NN sanja/NN nandes/MD icang/PR cegut/VB kuluk/NN ./Z 
+Kayang/NN jani/NN ia/PR enu/MD nyilih/VB pipis/NN di/IN bank/NN ./Z 
+Ia/PR enu/MD ngrengkeng/VB kayang/IN jani/NN wireh/CS motorne/NN pasilihanga/VB ./Z 
+Sedeng/MD mengkela/JJ jani/NN sasukatne/NN ia/PR dadi/VB bendaharawan/NN proyek/NN ./Z 
+Suba/MD mabayah/VB utangne/NN ./Z 
+Uli/NN pidan/NN suud/MD magae/VB di/IN kantor/NN ?/Z 
+I/MD telun/CD ia/PR tusing/RB masuk/VB ./Z 
+Ane/NN ningehang/VB satuanne/NN I/DT Tuung/NNP Kuning/NNP pada/MD ngeling/VB ./Z 
+I/DT raga/PR peturu/MD muani/NN patut/JJ mlajahin/VB kaprawiraan/NN ./Z 
+Kapah/MD gati/RB tepukin/VB icang/PR ia/PR mablanja/VB ./Z 
+Arang/MD pisan/RB panggihin/VB titiang/PR ipun/PR matumabasan/VB ./Z 
+Tusing/NEG taen/MD ia/PR maang/VB ngidih/VB pipis/NN ./Z 
+Ia/PR mula/VB setuuk/MD kageringan/JJ ./Z 
+Eda/NEG teh/RP setata/MD matapa/VB kuangan/VB ./Z 
+Aliha/VB ileh-ileh/NN tuara/NEG tepukina/VB ,/Z nget/UH teka/VB iba-ibana/NN ./Z 
+Keto/NN pisunane/NN teka/VB jeg/UH guguna/VB ./Z 
+Beh/UH kaliwat/RB baana/VB nyayangang/JJ cucunne/NN ./Z 
+Punika/DT sane/PR ngawinang/VB katah/JJ para/DT jana/NN sane/PR tan/NEG uning/VB minaang/VB adat/NN miwah/CC agamane/NN ./Z 
+Ia/PR jerit-jerit/VB tur/CC mamunyi/VB ,/Z "/Z Uduh/UH bapa/NN olasin/VB titiang/PR !/Z "/Z 
+Kenkenang/WH baan/IN tuara/NEG sedih/JJ bes/UH panak/NN mati/NN !/Z 
+Cening/PR las/UH pesan/RB ngalahin/VB meme/NN mati/NN !/Z 
+Pih/UH amonto/NNP baanga/VB nasi/NN sop/NN acepok/NN dogen/RB telah/VB !/Z 
+Ih/UH truna/PR ,/Z kai/PR makruna/VB teken/IN iba/PR !/Z 
+Suba/MD tekek/JJ talinne/NN masa/UH nyidaang/MD leb/VB !/Z 
+lan/UH mulih/VB !/Z 
+Ketoang/NN ba/UH apang/NN melahan/NN !/Z 
+Tegarang/UH ja/RP pagigisin/JJ masahut/VB !/Z 
+Ye/UH ,/Z dadi/VB buwin/MD teka/VB mai/NN !/Z 
+Bah/UH ,/Z suba/RB katakeh/NN ia/PR nganggon/VB bajun/NN icange/PR ./Z 
+Masa/UH ia/PR tandruh/VB ,/Z anak/NN di/IN arepne/IN suba/RB jang/VB bungkunge/VB ento/RB ./Z 
+Jeg/UH suba/RB masaut/VB ,/Z konden/NEG takonina/VB teken/RB perbekele/NN ./Z 
+I/DT Ngente/NNP Ngemban/NNP masasambatan/VB ,/Z "/Z Uduh/UH gusti/UH bataran/UH titiang/UH ,/Z banget/RB pisan/RB kesangsaran/JJ cokor/NN i/DT dewa/PR driki/RB !/Z "/Z
+Kenkenang/WH tuara/NEG sebet/JJ kenehe/NN ,/Z bes/UH panak/NN mati/NN ./Z 
+Selegang/NN mlajah/VB ,/Z eda/NEG te/UH pati/RB macanda/VB ./Z 
+I/DT bapa/NNP memula/VB juuk/NN di/IN abian/NN ./Z 
+I/DT meme/NN nuruhin/VB kucit/NN ./Z 
+Tiang/PR ngajang/VB yeh/NN uli/IN di/IN semer/NN ./Z 
+Juuke/NN ngencang/VB ,/Z kerana/CS panene/JJ gede/RB ./Z 
+Menggal-enggalan/RB i/DT meme/NN megae/VB ./Z 
+Cerik-cerike/PR melaib-laiban/VB di/IN natahe/NN ./Z 
+I/DT bapa/NN biasane/MD memula/VB jagung/NN di/IN sasih/NN ka/IN eneme/CD ./Z 
+I/DT meme/NN ngabeang/VB nasi/NN ,/Z dugas/CC ibapane/PR pemula/VB jagung/NN ./Z 
+Dibi/NN sing/NEG tawanga/VB ,/Z sampine/NN ngamah/VB jagung/NN ./Z 
+I/DT beli/NN nulungin/VB ngaenang/VB bapane/PR pagehan/NN ./Z 
+I/DT meme/NN ngabeang/VB i/DT bapa/NN nasi/NN ./Z 
+Ia/PR ngenyitang/VB roko/NN i/DT bapa/NN ./Z 
+Ia/PR nuturang/VB satwa/NN siap/NN selem/JJ ./Z 
+I/DT meme/NN ngulat/VB kulit/NN ketipat/NN di/IN ampike/NN ./Z 
+Cerik-cerike/PR itep/JJ madingehang/VB satwan/NN anake/NN ento/PR ./Z 
+Kulit/NN ketipate/NN ane/CS suba/RB peragat/VB ,/Z isinina/VB baas/NN ,/Z lakar/MD lablaba/VB ./Z 
+Ketipate/NN ento/PR suba/RB daara/VB teken/RB cerik-cerike/PR ./Z 
+Ketipate/NN jani/RB suba/RB lebeng/JJ ./Z 
+Cerik-cerike/PR suba/RB wareg/JJ jani/RB ./Z 
+Ketipat/NN tuah/RB abesik/CD di/IN paon/NN ,/Z ane/CS matah/JJ ./Z 
+Tapele/NN ento/NN ,/Z topeng/NN rangda/NN adanne/NN ./Z 
+Di/IN banjar/NN ,/Z i/DT bapa/NN kelianne/NN ./Z 
+I/DT bapa/NN ,/Z jani/RB di/IN abian/NN ./Z 
+Adin-adin/NN tiange/PR ,/Z mekejang/CD jumah/RB ./Z 
+Siape/NN uli/IN ibi/NN di/IN bengbengane/NN dogen/RB ./Z 
+Ni/DT Ratmi/NNP kedek/VB sambilanga/VB nyemak/VB cedok/NN ./Z 
+Wayan/NNP Tamba/NNP nyiup/VB kopine/NN ./Z 
+Meonge/NN mekerah/VB ajaka/CC i/DT cicing/NN ./Z 
+Saget/UH i/DT Lutung/NN buin/RB kacunduk/VB teken/RB sang/DT kancil/NN ./Z 
+Makelo/NN I/DT lutung/NN ngantiang/VB ./Z 
+Mekecos/VB macan/NN ageng/JJ !/Z 
+Beneh/JJ pesang/NN pepineh/NN ceninge/PR !/Z 
+Mapan/NN uyut/VB dogen/RB pakurenanne/NN ./Z 
+Cai/PR ngubadin/VB ./Z 
+Ia/PR suba/RB nerka/VB ./Z 
+Meonge/NN nyagrep/VB bikul/NN ./Z 
+I/DT raksasa/NN boke/NN gempel/NN ./Z 
+I/DT Bapa/NN pegawe/NN kantor/NN ./Z 
+Ia/PR tukang/NN ngadepin/VB jaring/NN ./Z 
+asu/NN ingon-ingon/NN Pan/NN Nukarnane/NNP ./Z 
+Ia/PR Pan/NN Nukarna/NNP ./Z 
+Barang-barange/NN liu/JJ gati/RB ./Z 
+Wenten/NN anak/NN sugih/JJ ./Z 
+Torise/NN maanggutan/VB ./Z 
+Idupe/NN megawe/VB utang/NN ./Z 
+Ni/DT Sari/NNP tuturina/VB satua/NN ./Z 
+Meonge/NN nyagrep/VB i/DT bikul/NN ./Z 
+Iteh/JJ ia/PR ngukir/VB togog/NN ./Z 
+Titiang/PR magadang/VB ./Z 
+I/DT Guru/NN masatua/VB ./Z 
+Pan/NNP Nukarna/NNP makesiab/VB ./Z 
+Anake/PR ngelahang/VB jaring/NN ./Z 
+Makelo/RB I/DT lutung/NN Ngantiang/VB I/DT Kancil/NN ./Z 
+Memene/PR suba/RB ngidupang/VB api/NN di/IN paon/NN ./Z 
+I/DT Bapa/NN ngaritang/VB sampi/NN padang/NN ./Z 
+Tiang/PR ngalapang/VB Awam/NNP bunga/NN ./Z 
+I/DT Ketut/NNP suba/RB nyemakang/VB I/DT Made/NNP jajan/NN ./Z 
+Ia/PR nyemakan/VB adine/PR nasi/NN ./Z 
+Kaler/NNP nyuwunang/VB bapane/PR tanah/NN ./Z 
+Iteh/JJ ia/PR ngukir/VB togog/NN ./Z 
+Dening/IN ia/PR jemet/JJ melajah/VB ./Z 
+Kapiragi/VB suaran/NN suling/NN punike/RB ./Z 
+Apa/WH maka/NN buktine/NN ?/Z 
+Nyen/WH ane/CS sayang/JJ teken/RB Ni/DT Sari/NNP ?/Z 
+Om/NN Swastyastu/NN !/Z 
+Nah/UH cening/NN ,/Z mai/VB ja/RP !/Z 
+Tegarang/RB nulis/VB aji/IN aksara/NN Bali/NN !/Z 
+Kacarita/VB ne/CS jani/RB panakne/PR totonan/PR ,/Z mekejang/CD suba/RB ngelah/VB kurenan/NN ./Z 
+Lantas/NN ia/PR ngenjekin/VB panak/NN katak/NN aukud/CD nganti/NN mati/JJ ./Z 
+Panes/JJ jagate/NN mengentak-ngentak/RB ./Z 
+Saking/IN lama/NN Pan/DT Nukara/NNP dados/VB tukang/NN gambar/NN ./Z 
+Ada/NN reko/RB tuturan/NN satua/NN ,/Z I/DT Sugih/NNP teken/CC I/DT Tiwas/NNP ./Z 
+Apa/WH kranane/NN sing/NEG setuju/VB ?/Z 
+Nyen/WH dadi/VB mahapatih/NN ?/Z 
+Tonde/NN ke/RP mrasa/VB limane/NN puun/JJ ?/Z 
+Beli/NN sing/NEG mabalih/VB ?/Z 
+Suud/VB ja/RP Luh/NNP ,/Z suud/VB !/Z 
+Indayang/NN ja/RP bu/NN dokter/NN kayunin/NN ./Z 
+Tegarang/RB jani/IN mlajah/VB ngae/VB surat/NN ./Z 
+Tamiu/NN ngraos/VB ./Z 
+Tamiu/NN punika/RB ngraos/VB Indonesia/NNP ./Z 
+Tamiu/NN punika/RB ngraos/VB Indonesia/NNP cacep/JJ pesan/RB ./Z 
+Cacep/JJ pesan/RB tamiu/NN punika/RB ngraos/VB Indonesia/NNP ./Z 
+Ia/PR mekenyir/VB ./Z 
+Tumben/NN beli/NN nepukin/VB cai/PR ./Z 
+Suud/NN keto/NN mara/NN ia/PR masare/VB ./Z 
+Beli/NN tumben/NN nepukin/VB cai/PR ./Z 
+Naskah/NN punika/RB sampun/RB ical/JJ ./Z 
+Naskah/NN ical/JJ ./Z 
+I/DT Toni/NNP gelas/NN pisan/RB ageng/VB ./Z 
+I/DT Toni/NNP ageng/VB ./Z 
+Ni/DT Luh/NNP Manik/NNP setata/RB repot/JJ ring/IN warung/NN ./Z 
+Cicing/NN berag/JJ kuangan/VB amah/NN ./Z 
+Sinah/NN ia/PR suba/RB bagia/JJ jani/RB ./Z 
+Ia/PR sinah/NN suba/RB bagia/JJ jani/RB ./Z 
+Sinah/NN suba/RB bagia/JJ ia/PR jani/RB ./Z 
+Sinah/NN jani/RB ia/PR suba/MD bagia/JJ ./Z 
+Jani/RB ia/PR sinah/NN suba/RB bagia/JJ ./Z 
+Jadma/NN punika/NN tamiu/NN saking/IN Belanda/NNP ./Z 
+Ipun/DT tamiu/NN ./Z 
+Pan/NNP Nukara/NNP tukang/NN gambar/NN ./Z 
+Saking/IN lami/JJ Pan/NNP Nukara/NNP dados/VB tukang/NN gambar/NN ./Z 
+Makueh/JJ sawah/NN dados/VB umah/NN ./Z 
+Panakne/NN patpat/CD ./Z 
+Kurenanne/NN dadua/CD ./Z 
+Tamiu/NN saking/IN Belanda/NNP ./Z 
+Ni/DT Sari/NNP ka/IN sekolah/NN !/Z 
+Memenne/PR jumah/RB ./Z 
+I/DT meme/NN di/IN uma/NN ./Z 
+I/DT bapa/NN ka/IN uma/NN ./Z 
+Bu/NN dokter/NN ditu/RB ./Z 
+Gamelan/NN jogede/NN suba/MD nabuh/VB ,/Z liu/CD pesan/NN anake/PR mabalih/VB ./Z 
+Nah/UH ,/Z yen/CS ento/PR Gede/NNP Rubika/NNP mule/JJ Bapa/NN ngelah/VB ,/Z sing/NEG ja/RP tiang/PR ngelah/VB ./Z 
+Jadma/NN sane/IN makta/VB surat/NN punika/NN wau/MD rauh/VB ./Z 
+Jadma/NN sane/IN makta/VB surat/NN punika/NN rauh/VB ,/Z duk/CC titiang/PR budal/VB ./Z 
+Dugase/NN ia/PR menek/VB kelas/NN empat/CD ,/Z ia/PR nomor/NN satu/CD ./Z 
+Ento/RB ane/CS anggon/VB bapa/NN ngongkosi/VB cai/PR masekolah/VB ./Z 
+Bu/NN dokter/NN ditu/RB ,/Z tiang/PR dini/RB ./Z 
+Ada/NN ane/CS mara/RB teka/VB ,/Z ada/VB ane/CS ngaluasang/VB ./Z 
+Wayan/NNP Tamba/NNP nyiup/VB kopine/NN tur/CC nuunang/VB saputne/NN ./Z 
+Cerik-cerike/PR malayangan/VB ./Z 
+Agung/NNP Lanang/NNP Wijaksara/NNP sampun/RB malajah/VB ./Z 
+I/DT Rai/NNP meli/VB jaja/NN ./Z 
+Putu/NNP tonden/RB ngaba/VB bal/NN ./Z 
+I/DT Dadong/NN labuh/VB tuni/RB semengan/RB ./Z 
+Liu/CD pesan/NN anake/PR mablanja/VB ka/IN Hardis/NNP Tabanan/NNP ./Z 
+Bali/NNP kasinanggehang/VB sorga/NN dunia/NN ./Z 
+Pamandangane/NN ngulangunin/VB keneh/NN ./Z 
+I/DT Nengah/NNP meli/VB rujak/NN di/IN warung/NN ./Z 
+I/DT Putu/NNP ngalih/VB saang/NN ka/IN tegale/NN ./Z 
+Pan/NNP Cager/NNP ngaritang/VB sampinne/NN padang/NN ibi/NN sanja/NN ./Z 
+Ingetang/VB yan/NN ,/Z buin/RB mani/NN tiang/PR lakar/MD kema/VB !/Z 
+Makecos/VB macan/NN gede/JJ ,/Z makejang/NN pada/NN takut/JJ ./Z 
+Jani/NN ada/VB pameran/NN di/IN lapangan/NN ./Z 
+Ibi/NN sanja/NN umah/NN I/DT Darmanane/NNP puun/VB ./Z 
+Dugas/NN bome/NN macedar/VB ,/Z tiang/PR sedek/NN maca/VB buku/NN ./Z 
+Dugas/NN odalane/NN di/IN Pura/NN Desa/NN Luh/NNP Nerti/NNP makamen/VB songket/NN ./Z 
+Ade/WH pameran/NN di/IN lapangan/NN ?/Z 
+Dija/WH ada/VB pameran/NN ?/Z 
+Ada/WH apa/WH di/IN kota/NN Tabanan/NNP ?/Z 
+Sira/WH sane/IN rauh/VB mriki/NN ?/Z 
+Durusang/NN ambil/VB siki-siki/NN ,/Z Pak/NN !/Z 
+Tulungin/VB jebos/RB ambilang/VB tiang/PR buku/NN !/Z 
+Beh/UH ,/Z enggalin/VB ja/RP majalan/VB !/Z 
+Telahang/VB suba/RB amah/VB makejang/NNP !/Z 
+Ampunang/VB baktana/VB mriki/NN ,/Z Luh/NN !/Z 
+Men/NNP Putu/NNP meli/VB nasi/NN ./Z 
+Ni/DT Sari/NNP ngadep/VB bunga/NN di/IN peken/NN ./Z 
+Linuhe/NN nguugang/VB umah/NN ibi/NN sanja/NN ./Z 
+Semengan/NN pesan/RB pegawene/NN suba/MD masuk/VB ka/IN kantor/NN ./Z 
+Beli/NN wayan/NNP negak/VB ditu/RB ,/Z nanging/CC tiang/PR dini/RB ./Z 
+Nyoman/NNP ngoyong/VB driki/RB napi/CC milu/VB ka/IN umah/NN Pan/NNP Danune/NNP ?/Z 
+Adinne/PR jemet/JJ ,/Z nanging/CC belinne/PR kiul/JJ ./Z 
+Ia/PR anak/NN suba/MD malajah/VB ,/Z sakewala/CC nu/NN masih/VB belog/JJ ./Z 
+Nyoman/NNP sokasti/NNP teka/VB dugase/CC tiang/PR sedek/MD nulis/VB surat/NN di/IN kamar/NN ./Z 
+Made/NNP Cenik/NNP ngeling/VB krana/CS tusing/RB menek/NN kelas/NN ./Z 
+Ia/PR malali/VB mulih/VB nuju/VB bulan/NN purnama/NN ./Z 
+Di/IN subane/NN ada/VB anak/NN nepukin/VB makejang/NNP anake/DT sing/NEG bani/JJ malali/VB kema/RB ./Z 
+Carike/NN ento/PR mara/JJ belina/VB ,/Z jani/CS suba/RB gadeanga/VB ./Z 
+I/DT Sekar/NNP belianga/VB nasi/NN ,/Z I/DT Guru/NN tusing/RB belianga/VB ./Z 
+Nyoman/NNP Ruja/NNP malali/VB ka/IN Jakarta/NNP ,/Z ka/IN Bandung/NNP ,/Z lan/CC ka/IN Yogyakarta/NNP ./Z 
+Beli/NNP Made/NNP nusuk/VB sate/NN ./Z 
+Mbok/NNP Putu/NNP ngae/VB rujak/NN ./Z 
+Adinne/PR nulis/VB surat/NN ibi/NN sanja/NN di/IN ampike/NN ./Z 
+Satene/NN katusuk/VB baan/IN Beli/NNP Made/NNP ./Z 
+Bungane/NN adepa/VB teken/RB Luh/NNP Sari/NNP di/IN Peken/NNP Badung/NNP ./Z 
+Adinne/PR maekin/VB belinne/NN ./Z 
+Galenge/NN tegakina/VB teken/RB panakne/NN ./Z 
+Mani/RB semengan/NN ada/VB pacentokan/VB pidarta/NN Basa/NN Bali/NNP ./Z 
+Meme/NN nyanan/NN sanjene/NN lakar/MD luas/VB ka/IN Badung/NNP ./Z 
+Ngudiang/WH Made/NN ngajanang/RB malaib/VB ngaba/NN blakas/NN ./Z 
+Dija/WH ada/VB anak/NN ngadep/VB be/NN pasih/NN ?/Z 
+Durusang/UH unggahang/VB sanganane/NN !/Z 
+Ambilang/VB jebos/NN bukune/NN nika/PR !/Z 
+Mai/UH laku/NN ,/Z ditu/RB jalane/NN usak/JJ !/Z 
+enggalang/VB majalan/VB apang/CS tusing/NEG kasepan/RB kasekolah/VB ./Z 
+Sampunang/NEG ngambil/VB pakaryan/NN anak/NN tiosan/NN !/Z 
+Men/NNP Sundri/NNP nyait/VB di/IN balene/NN ./Z 
+Montore/NN macaplagan/VB ibi/NN sanja/NN ./Z 
+Putu/NNP Bagia/NNP majalan/VB masuk/VB ngaremeng/VB ./Z 
+Gede/NNP Lugra/NNP jemet/JJ pesan/NN ngalih/VB gae/NN ,/Z nanging/CC adine/NN mayus/JJ pesan/NN
+Ibi/NN biase/NN suba/RB kajanga/VB ,/Z sakewala/CC jani/RB teka/VB buin/RB duang/CD truk/NN ./Z 
+I/DT Luh/NNP Sari/NNP jumah/NN ,/Z nanging/CC memene/NN luas/VB kapeken/NN ./Z 
+Pan/NNP Lodra/NNP mulih/VB dugas/CC tiang/PR sedek/NN manjus/VB ./Z 
+Putu/NNP Suta/NNP ngambul/VB krana/CS tusing/RB ajaka/VB malali/NN ./Z 
+Bapa/NN luas/VB mancing/VB nuju/NN yeh/NN pasihe/NN nyat/JJ ./Z 
+Di/IN subane/NN ada/VB anak/NN nepukin/VB makejang/NNP anake/NN sing/NEG bani/JJ malali/VB kema/RB ./Z 
+Montore/NN ento/PR mara/JJ belina/VB ,/Z jani/RB suba/RB gadeanga/VB ./Z 
+I/DT meme/NN ngadep/VB saang/NN di/IN peken/NN ./Z 
+Belin/NN tiange/PR luas/VB ke/IN Karangasem/NNP ./Z 
+Para/DT sisia/NN sedek/NN ngwentenang/VB rame-rame/RB ring/IN sekolahan/NN ./Z 
+I/DT bapa/NN ngabas/VB somi/NN di/IN carik/NN ./Z 
+Uli/IN tuni/RB Nyoman/NNP alih-alihin/VB tiang/PR ./Z 
+Ooo/RP ,/Z ento/PR te/RP uli/IN tuni/RB suba/RB tiang/PR alih/VB Beli/NN ?/Z 
+Sokne/NN kapenpenin/VB baas/NN teken/RB pipis/NN ,/Z kapin/NN anake/NN lingsir/JJ ento/PR ./Z 
+Ipun/DT kacingak/VB olih/IN Dane/PR Bapak/NN Guru/NN ./Z 
+I/DT meme/NN ngadep/VB siap/NN di/IN peken/NN ./Z 
+I/DT bapa/NN numbegin/VB tenggalaan/NN ituni/RB ./Z 
+Apeme/NN ento/PR manis/JJ
+Segara/NN Gunung/NN 
+Ring/IN dija/WH genah/NN sane/CS melah/JJ anggen/NN malancaran/VB ?/Z
+Gunung/NNP Batur/NNP becik/JJ pakantenane/NN duaning/IN wenten/VB Danu/NNP Batur/NNP irika/RB ./Z 
+Taler/RB kawentenan/VB jagate/NN gesit/JJ ring/IN Kintamani/NNP ./Z 
+Akeh/CD kramane/NN saking/IN kota/NN malancaran/VB irika/RB ./Z 
+Wenten/NN sane/CS ngajak/VB gegelanipun/PR ,/Z wenten/VB taler/CC sareng/VB kaluarga/NN ./Z 
+Segarane/NN mangda/MD resik/JJ tan/RB wenten/VB leluu/NN pamekas/JJ leluu/NN plastik/NN ./Z 
+Yening/CC sampun/RB becik/JJ ,/Z resik/JJ ,/Z sinah/NN sampun/RB akeh/JJ kramane/NN malancaran/VB irika/RB ./Z 
+Becik/JJ taler/RB anggen/VB genah/NN melasti/NN ngaturang/NN puja/NN ring/IN Hyang/DT Baruna/NNP ./Z 
+Sampunang/NEG nyabran/NN rahina/NN ngokoh/VB bias/NN ,/Z kaambil/VB laut/IN kaadol/VB ./Z 
+Palemahan/NN sane/CS gumanti/RB ngulangunin/VB sang/DT sane/CS nyingakin/VB ./Z  
+Juwet/NN rumasuk/NN sarwa/NND woh-wohan/NN ./Z 
+Punyan/NN juwet/NN ketahnyane/JJ kacunduk/VB ring/IN alase/NN ./Z 
+Punyanne/NN tegeh/JJ tur/CC ring/IN donnyane/NN kadadosang/VB umah/NN semangah/NN yening/CS masanne/NN ./Z 
+Woh/NN punika/IN madue/VB wiji/NN alit/JJ ring/IN tengahnyane/NN ./Z 
+Juwet/NN dados/VB kaajeng/VB sareng/CC uyah/NN tur/CC kabejek/VB dados/VB asiki/CD ./Z 
+Bunga/NN Jepun/NN 
+Jepun/NN rumasuk/VB sarwa/NND bunga/NN ./Z 
+Warnanyane/NN wenten/VB tatiga/CD inggih/NN punika/NN :/Z putih/JJ ,/Z kuning/JJ ,/Z lan/CC barak/JJ ./Z 
+Katak/NN inggih/NN punika/IN silih/CD sinunggil/CD soroh/NN beburon/NN ./Z 
+Katak/NN madue/VB batis/NN patpat/CD ./Z 
+Panak/NN katak/NN madan/VB becing-becing/NN ./Z 
+Becing-becing/NN puniki/IN rupannyane/NN masaih/VB teken/RB be/NN ./Z 
+Taluh/NN katak/NN marupa/VB taluh/NN sane/CS kakaput/VB olih/IN lendir/NN ./Z 
+Taluh-taluh/NN punika/IN sane/CS lakar/IN dados/VB becing-becing/NN ./Z 
+Mangkin/RB sampun/RB sayan/RB arang/NN anake/PR sane/CC manjus/VB ring/IN kayehan/NN ./Z 
+Napi/NN malih/NN ring/IN wewidangan/NN kota/NN sampun/RB nenten/NEG wenten/VB kapanggihin/VB kayehan/NN ./Z 
+Genah/NN masiram/VB anak/NN lanang/NN miwah/CC anak/NN istri/NN ring/IN kayehan/NN kapasahang/VB ./Z 
+Kebo/NN inggih/NN punika/IN silih/CD sinunggil/CD soroh/NN beburon/NN sane/CS mabatis/VB patpat/CD ./Z 
+Amah-amahan/NN kebone/NN inggih/NN punika/IN padang-padangan/NN ./Z 
+Panak/NN kebo/NN madan/VB bedigal/NN ./Z 
+Kebo/NN demen/JJ pesan/RB makipu/VB di/IN endute/NN ./Z 
+Kebo/NN mawarna/VB selem/JJ ./Z 
+Wenten/NN kebo/NN sane/CS mawarna/VB putih/JJ ,/Z kawastanin/VB Misa/NN ./Z 
+Bongkolne/NN marupa/VB sakadi/IN kayu/NN ,/Z mabulu/NN ,/Z macarang/NN ,/Z mawarna/VB gadang/JJ masawang/VB putih/JJ ./Z 
+Batun/NN nyane/CS bunter/JJ sakadi/IN taluh/NN ,/Z kuning/JJ masawang/VB putih/JJ ./Z 
+Akah/NN nyane/CS tunggang/NN putih/JJ masawang/VB kuning/JJ ./Z 
+Rahina/NN Kuningan/NN 
+beburon/NN Lelawah/NN 
+Lelawah/NN inggih/NN punika/RB silih/CD sinunggil/CD soroh/NN beburon/NN ./Z 
+Warnan/NN lelawahe/NN inggih/NN punika/IN selem/JJ tur/CC coklat/JJ ./Z 
+Amah-amahan/NN lelawahe/NN inggih/NN punika/IN woh-wohan/NN ./Z 
+Wenten/NN lelawah/NN sane/CS awaknyane/NN gede/JJ kawastanin/VB kalong/NN ./Z 
+Kasusilaning/NN Ajahan/NN Karma/NN Yoga/NN 
+Sajeroning/NN ngamolihang/VB sane/CC kabaos/VB jagadhita/NN ,/Z inggih/NN punika/IN karahayuan/NN lan/CC kasantian/NN ./Z 
+Pamargine/NN mangda/CS kadasarin/VB antuk/IN piteket-piteket/NN sane/CS munggah/VB ring/IN sastra-sastra/NN agamane/NN ./Z 
+Sajeroning/NN nginkinang/VB sane/CC kabaos/VB jagadhita/NN ./Z 
+Ya/PR sakti/JJ sang/DT sajjana/NN dharma/NN raksara/NN ./Z 
+Tradisi/NN Lukat/NN geni/NN 
+Lukat/NN Geni/NN inggih/NN punika/IN silih/CD tunggil/CD siat/VB sane/CS nganggen/VB api/NN ./Z 
+Api/NN kakaryanin/VB saking/IN danyuh/NN pinaka/NN sanjata/NN ./Z 
+Danyuh/NN punika/IN kaiket/VB makatah/NND 36/CD katih/NND ./Z 
+Api/NN punika/IN sane/CS kasiatang/VB ring/IN awak/NN timpal/NN lianan/NN ./Z 
+Kruna/NN lukat/VB maarti/NN ngicalang/VB sakancan/NN mala/NN ring/IN angga/NN ./Z 
+Geni/NN punika/IN maarti/VB api/NN ./Z 
+Lukat/NN geni/NN masuksma/NN nunas/VB panglukatan/NN ring/IN Sang/DT Hyang/NNP Brahma/NNP ./Z 
+Lukat/NN geni/NN mamargi/VB rikala/CC para/PR trunane/PR nyuryakang/VB ogoh-ogoh/NN ./Z 
+Macan/NN puniki/NN soroh/NN meong/NN ane/CS paling/NN becat/JJ malaib/VB sesampunne/RB citah/NN ./Z 
+Macan/NN ketahnyane/JJ memangsa/VB buron/NN ane/CS gede/JJ sakadi/IN kijang/NN utawi/CC babi/NN ./Z 
+Made/NNP Sugianto/NNP 
+Ipun/DT meneng/VB ring/IN Banjar/NN Lodalang/NNP ,/Z Desa/NN Kukuh/NNP ,/Z Kecamatan/NN Marga/NNP ,/Z Tabanan/NNP ./Z 
+Ipun/DT akeh/JJ ngawedar/VB karya/NN ring/IN basa/NN Bali/NNP miwah/CC basa/NN Indonesia/NNP ./Z 
+Ipun/DT sutindih/VB ring/IN basa/NN miwah/CC sastra/NN Bali/NNP ./Z 
+Akeh/CD sastrawan/NN Bali/NNP sane/CS karyane/NN katerbitang/VB ring/IN Pustaka/NNP Ekspresi/NNP ./Z 
+Ritatkala/NN punika/IN ,/Z ipun/PR teleb/NN ngaryanin/VB karya/NN sastra/NN Bali/NNP modern/JJ ./Z 
+Cerpen/NN punika/NN kawedar/VB ring/IN majalah/NN Buratwangi/NNP druwen/VB Bapak/NN Nyoman/NNP Manda/NNP ./Z 
+Cerpen-cerpen/NN ipunne/DT akeh/JJ kamedalang/VB ring/IN koran/NN Balipost/NNP ./Z 
+Taru/NN Mahoni/NN 
+Woh/NN ring/IN mahoni/NN punika/IN merpat/JJ ,/Z bulet/JJ taluh/NN ,/Z majuring/NN lalima/CD ,/Z gading/JJ ./Z 
+Batun/NN mahoni/NN punika/IN pegpeg/JJ ,/Z selem/JJ utawi/CC gading/JJ ./Z 
+Akah/NN mahoni/NN puniki/IN maakah/VB tunggil/NN taler/CC mawarna/VB gading/JJ ./Z 
+Mall/NN Bali/NNP Galeria/NNP 
+Liu/JJ anake/PR ane/CC ngorahang/VB adan/NN bangunan/NN ene/IN jani/NN MBG/NNP ./Z 
+Sawai-wai/NN liu/JJ anake/PR malali/VB kemu/RB utamanne/NN anak/NN bajang/JJ utawi/CC truna/JJ ./Z 
+Ring/IN Bali/NNP wenten/VB sane/CC ngadanin/NN mandus/VB ,/Z kayeh/VB utawi/CC masiram/VB ./Z 
+Ketahnyane/JJ anake/PR manjus/VB tatkala/NN semengan/NN miwah/CC sanja/NN ./Z 
+Mangkin/NN sampun/RB kasayagayang/VB lulur/NN anggen/VB ngurut/VB kulit/NN apang/NN kedas/JJ ./Z 
+Upakara/NN Melasti/NN
+Makasami/NN krama/NN sane/CC nyarengin/VB upakara/NN puniki/IN mapangangge/VB putih/JJ ./Z 
+Ring/IN Kabupaten/NN kalaksanayang/VB upakara/NN melasti/NN sane/CS kabaosang/VB Upakara/NN Panca/NN Kelud/NN ./Z 
+Ring/IN Desa/NN kalaksanayang/VB upakara/NN melasti/NN sane/CS kabaosang/VB Upakara/NN Panca/NN Sata/NN ./Z 
+Ring/IN Banjar/NN kalaksanayang/VB upakara/NN melasti/NN sane/CS kabaosang/VB Upakara/NN Ekasata/NN ./Z 
+Upakara/NN Mepandes/NN 
+Upakara/NN punika/IN taler/NN kabaosang/VB matatah/VB utawi/CC masangih/VB ./Z 
+Apa/WH ke/RP kebisanne/NN wiadin/VB dolarne/NN ento/RB ane/CC mangranayang/NN mageeme/NN ?/Z 
+Keto/NN buin/RB ada/VB mentik/VB patakon/NN ./Z 
+Mimih/UH ,/Z ngudiang/WH buka/IN kakene/NN dadi/VB pabligbagane/NN ?/Z 
+Kenkenan/WH lantas/NN sang/DT ngamaang/VB karyane/NN ?/Z 
+Ni/DT Luh/NNP Djelantik/NNP 
+Ida/DT madue/VB wastan/NN Ni/DT luh/NN Putu/NNP Ary/NNP Pertami/NNP Djelantik/NNP ./Z 
+Ida/DT embas/VB ring/IN Bangli/NNP ,/Z 15/CD Juni/NN warsa/NN 1975/CD ./Z 
+Raraman/NN idane/PR sampun/RB mapalasan/VB saking/IN ida/PR mayusa/NN atiban/CD ./Z 
+Ngantos/VB ida/PR kelih/JJ ,/Z ida/PR kaasuh/VB olih/IN ibunnyane/PR ./Z 
+Ida/DT mawit/VB saking/IN kulawarga/NN sane/CS sederhana/NN ./Z 
+Ida/DT meneng/VB sareng/NN ibu/NN ,/Z sepupu/NN ,/Z paman/NN ,/Z bibi/NN ,/Z kakiang/NN miwah/CC nininyane/NN ./Z 
+Kulawarganyane/PR ngrereh/VB pangupajiwa/NN antuk/IN madagang/VB ring/IN pasar/NN Badung/NNP ./Z 
+Ida/DT madue/VB merek/NN toko/NN sepatu/NN sane/CS mamurda/VB Niluh/NNP Djelantik/NNP ./Z 
+Rahina/NN Nyepi/NN 
+Rahina/NN Nyepi/NN kalaksayanang/VB ring/IN pinanggal/NN apisan/CD Sasih/NN Kadasa/CD ./Z 
+Ring/IN rahina/NN punika/IN taler/NN jagi/VB kasobyahang/VB ogoh-ogoh/NN ./Z 
